@@ -1,2 +1,20 @@
-# CAMPUS-LABS-Resource-Manager
-Campus Labs Resource Hub is a full-stack application designed to centralize and simplify access to campus laboratory resources. The project uses React with Vite for the frontend, Express.js for the backend, and SQLite for lightweight database management. It provides a clean UI and a scalable backend suitable for academic environments.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/46ca6487-8837-469c-ae3c-0d06e1e5b267
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
