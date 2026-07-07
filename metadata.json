@@ -1,0 +1,6 @@
+{
+  "name": "Campus Labs",
+  "description": "Professional lab resource scheduling, tracking, and rules-based preventive maintenance coordination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
