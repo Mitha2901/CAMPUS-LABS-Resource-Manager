@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "Campus Labs",
+=======
+  "name": "Campus Labs Resource Hub",
+>>>>>>> c913b0e1f5a3147bd12e65191d3779a45abf9ace
   "description": "Professional lab resource scheduling, tracking, and rules-based preventive maintenance coordination.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]

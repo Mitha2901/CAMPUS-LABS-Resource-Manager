@@ -784,9 +784,15 @@ async function startServer() {
     });
   }
 
+<<<<<<< HEAD
   app.listen(3000, () => {
   console.log('Server running at http://localhost:3000');
 });
+=======
+  app.listen(PORT, "0.0.0.0", () => {
+    console.log(`Laboratory Resource Hub Server running at http://0.0.0.0:${PORT}`);
+  });
+>>>>>>> c913b0e1f5a3147bd12e65191d3779a45abf9ace
 }
 
 startServer();

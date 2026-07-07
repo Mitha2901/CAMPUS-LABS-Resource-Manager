@@ -30,9 +30,15 @@
     "autoprefixer": "^10.4.21",
     "esbuild": "^0.25.0",
     "tailwindcss": "^4.1.14",
+<<<<<<< HEAD
     "tsx": "^4.23.0",
     "typescript": "~5.8.2",
     "vite": "^6.2.3",
     "vite-plugin-singlefile": "^2.3.3"
+=======
+    "tsx": "^4.21.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.3"
+>>>>>>> c913b0e1f5a3147bd12e65191d3779a45abf9ace
   }
 }
